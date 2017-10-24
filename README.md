@@ -8,7 +8,7 @@ from the original deck? (yes using the mouse to select each card)
 * Can I draw any given number of cards from the deck and then sort the drawn cards,
 with the cards being removed from the original deck? (yes the cards will be sorted after every new card drawn)
 * Sorted cards are sorted by suit: Clubs, Spades, Hearts, Diamonds; then by value: Ace
-is high. (yes this is how they are sorted)
+is high. (yes using B key, drawn cards are also automatically sorted for convenience)
 
 ## Project dependencies
 This project was built using the following:
@@ -17,6 +17,7 @@ This project was built using the following:
 * Webpack to bundle JS, SASS 
 * Webpack dev server for local server
 * Mocha and Chai for unit tests
+* StandardJS for code linting
 * PixiJS for canvas rendering
 
 ## Build instructions
