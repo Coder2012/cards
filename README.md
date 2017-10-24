@@ -28,7 +28,7 @@ To install the build dependencies
 npm install
 ```
 
-Running the project in development mode
+Running the project in development mode - by default use http://localhost:8080
 
 ```javascript
 npm start
